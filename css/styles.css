@@ -1,0 +1,30 @@
+.ital{
+  font-style: italic;
+  font-weight: bold;
+  font-size: 2.0vw;
+}
+
+.pic{
+  width: 5.5vw;
+}
+
+.text_name{
+  font-size: 1.2vw;
+}
+
+.text_name2{
+  font-size:1.1vw;
+}
+
+.sized_box{
+  height: 25px;
+}
+
+hr{
+  border-top: 2px solid blue;
+  width: 90%;
+}
+
+body{
+  overflow-x: hidden;
+}
